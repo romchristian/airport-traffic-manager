@@ -1,0 +1,25 @@
+# Airport Traffic Manager - Requirements
+# CSE 111 Student Project
+
+# Testing framework
+pytest>=7.0.0
+pytest-cov>=4.0.0
+
+# GUI framework (included with Python standard library)
+# tkinter - No requiere instalación adicional
+
+# Date/time handling (included with Python standard library)
+# datetime - No requiere instalación adicional
+
+# Type hints (included with Python 3.5+)
+# typing - No requiere instalación adicional
+
+# Optional: Para generación de reportes de cobertura
+coverage>=7.0.0
+
+# Optional: Para formateo de código
+black>=22.0.0
+flake8>=5.0.0
+
+# Optional: Para documentación
+sphinx>=5.0.0
